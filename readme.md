@@ -44,3 +44,39 @@ func TestHelloEmpty(t *testing.T) {
 ```
 
 - run this in terminal: go test or go test -v
+
+
+# 25 Golang Keywords
+
+## Declaration
+- const
+- var
+- func
+- type
+- import
+- package
+
+## Composite types
+- chan
+- interface
+- map
+- struct
+
+# Control Flow
+- break
+- case
+- continue
+- default
+- else
+- fallthrough
+- for
+- goto
+- if
+- range
+- return
+- select
+- switch
+
+## Function modifier
+- defer
+- go
