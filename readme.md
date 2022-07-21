@@ -1,5 +1,5 @@
 
-- How to run go file go in terminal:
+# How to run go file go in terminal:
 
 cd MyProjectGo -> "go run ."Cancel changes
 
